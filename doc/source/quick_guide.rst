@@ -137,7 +137,7 @@ title, you can use the following:
     papis list title:principia
 
 Instead of by "title", you can filter by any other field stored in the Papis
-library. The :ref:`info.yaml section <info-file>` gives an overview of these
+library. The :confval:`info.yaml section <info-file>` gives an overview of these
 fields.
 
 Opening documents
